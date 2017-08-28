@@ -1,0 +1,33 @@
+{
+    "name": "dobby",
+    "version": "0.0.1",
+    "description": "A little self bot for Discord that spell checks messages I send.",
+    "main": "Dobby.js",
+    "displayName": "Dobby",
+    "icon": "",
+    "keywords": [
+        "discord",
+        "eris",
+        "spellcheck",
+        "dobby"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Alcha/Dobby.git"
+    },
+    
+    "author": {
+        "name": "Alcha",
+        "email": "alcha@paranoiddevs.com",
+        "url": "https://paranoiddevs.com"
+    },
+    "license": "MIT",
+    "scripts": {
+        "update": "npm update",
+        "start": "node Dobby.js"
+    },
+    "dependencies": {
+        "eris": "^0.7.1",
+        "typo-js": "^1.0.3"
+    }
+}
