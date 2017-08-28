@@ -11,7 +11,7 @@ const TypoFinder = require('./TypoFinder');
 const typo = new TypoFinder();
 
 bot.on('messageCreate', msg => {
-    if (msg.author.id == 219270060936527873) {
+    if (msg.author.id == 219270060936527873 && !msg.content.startsWith('t!')) {
         typo.checkSpelling(msg.content).then(newMsg => {
             typo.checkCapitalization(newMsg).then(capitalized => {
                 if (capitalized !== msg.content) {
