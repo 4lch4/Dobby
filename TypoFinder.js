@@ -1,3 +1,5 @@
+'use strict'
+
 const wordList = require('./util/Word_List.json');
 const Tools = require('./util/Tools');
 const tools = new Tools();
