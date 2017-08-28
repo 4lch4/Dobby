@@ -27,7 +27,6 @@
         "start": "node Dobby.js"
     },
     "dependencies": {
-        "eris": "^0.7.1",
-        "typo-js": "^1.0.3"
+        "eris": "^0.7.1"
     }
 }
