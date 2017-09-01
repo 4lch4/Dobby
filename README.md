@@ -1,3 +1,5 @@
+[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
+
 # Dobby
 
 Dobby is a self bot built for Discord using the [eris](https://github.com/abalabahaha/eris) library as an experiment in spell-checking messages. Currently, the bot will read messages that you send and look for common spelling mistakes. If any are detected, the correct spelling is replaced and the message is edited by the bot.
