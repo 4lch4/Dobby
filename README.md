@@ -1,4 +1,4 @@
-[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com) [![Greenkeeper badge](https://badges.greenkeeper.io/Alcha/Dobby.svg)](https://greenkeeper.io/)
 
 # Dobby
 
